@@ -206,7 +206,7 @@ public class GoogleMapView extends ImageView {
 
         String link = buildURI("https://maps.googleapis.com/maps/api/staticmap", gets);
 
-        Picasso.with(getContext()).load(link).into(this);
+        Picasso.get(getContext()).load(link).into(this);
 
     }
 
