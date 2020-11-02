@@ -1,6 +1,6 @@
 package com.alirezaashrafi.googlemapview;
 
-import android.support.v7.app.AppCompatActivity;
+import 	androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.alirezaashrafi.library.GoogleMapView;
